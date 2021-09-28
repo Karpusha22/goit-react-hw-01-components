@@ -1,0 +1,48 @@
+.description {
+  align-items: center;
+  text-align: center;
+  padding: 20px 20px;
+  height: 250px;
+  width: 250px;
+  background: #fff;
+}
+
+.avatar {
+  border-radius: 50px;
+}
+.name {
+  font-weight: 600;
+}
+
+.stats {
+  display: flex;
+  width: 250px;
+}
+
+.label {
+  display: block;
+  color: rgb(125, 125, 133);
+}
+.tag,
+.location {
+  color: rgb(125, 125, 133);
+}
+.item {
+  padding: 20px 10px;
+  display: block;
+  font-size: 14px;
+  text-align: center;
+  width: 100%;
+  background: rgb(211, 211, 211);
+  border: 1px solid rgb(192, 192, 192);
+}
+
+.quantity {
+  font-weight: 700;
+}
+
+.profile {
+  width: 250px;
+  margin: 0 auto;
+  padding: 0;
+}
